@@ -1,0 +1,1 @@
+from ironhand.scrapper import *
